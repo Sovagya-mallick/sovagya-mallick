@@ -54,8 +54,6 @@
 | **Scalable Backend Services** | High-throughput APIs, authentication, microservices architecture, and caching. | Python, Django / Node.js, Redis, PostgreSQL | [View Code](https://github.com/sovagya-mallick) |
 | **Client Software Solutions** | End-to-end client applications with asynchronous queue processing and database optimization. | Python, Docker, Kafka / RabbitMQ | [View Code](https://github.com/sovagya-mallick) |
 
-> 💡 *Tip: You can also pin your dynamic GitHub repository cards using:*
-> `<a href="https://github.com/sovagya-mallick/YOUR_REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sovagya-mallick&repo=YOUR_REPO_NAME&theme=radical" /></a>`
 
 ---
 
