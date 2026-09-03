@@ -108,7 +108,7 @@
 
 ---
 
-### 📈 Contribution & Commit Activity Graph
+### 📈 Contribution & Commit Activity Graphs
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sovagya-mallick&theme=radical&area=true&hide_border=false&custom_title=Contribution%20Commit%20Activity%20Graph" alt="Commit Activity Graph" width="100%" />
